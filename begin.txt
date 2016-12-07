@@ -5,3 +5,5 @@ APey: AIzaSyDvIYiQYxBKE7O-mps_JKwzyP9m7vZ-jTs
 https://maps.googleapis.com/maps/api/directions/json?origin=Am+Mühlbach+2,+85777+Fahrenzhausen&destination=Daimlerstrasse+15,+85748+Garching&waypoints=via:B13,%20Unterschleißheim&departure_time=now&avoid=highways&language=de&key=
 
 https://maps.googleapis.com/maps/api/directions/json?origin=Am+Mühlbach+2,+85777+Fahrenzhausen&destination=Daimlerstrasse+15,+85748+Garching&waypoints=via:Garchinger+Straße,+85386+Eching&departure_time=now&avoid=highways&language=de&key=
+
+https://maps.googleapis.com/maps/api/directions/json?origin=Am+Mühlbach+2,+85777+Fahrenzhausen&destination=Daimlerstrasse+15,+85748+Garching&waypoints=via:Danziger+Straße,+85386+Eching|via:Garchinger+Straße,+85386+Eching&departure_time=now&avoid=highways&language=de&key=
